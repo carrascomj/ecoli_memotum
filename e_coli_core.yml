@@ -2624,7 +2624,7 @@
       - nad_c: -1.0
       - nadh_c: 1.0
     - lower_bound: -1000.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b0351 or b1241
     - annotation: !!omap
       - bigg.reaction: ACALD
@@ -2647,7 +2647,7 @@
       - acald_c: 1.0
       - acald_e: -1.0
     - lower_bound: -1000.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: s0001
     - annotation: !!omap
       - bigg.reaction: ACALDt
@@ -2668,7 +2668,7 @@
       - adp_c: 1.0
       - atp_c: -1.0
     - lower_bound: -1000.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b3115 or b2296 or b1849
     - annotation: !!omap
       - bigg.reaction: ACKr
@@ -2694,7 +2694,7 @@
       - cit_c: -1.0
       - h2o_c: 1.0
     - lower_bound: -1000.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b0118 or b1276
     - annotation: !!omap
       - bigg.reaction: ACONTa
@@ -2718,7 +2718,7 @@
       - h2o_c: -1.0
       - icit_c: 1.0
     - lower_bound: -1000.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b0118 or b1276
     - annotation: !!omap
       - bigg.reaction: ACONTb
@@ -2741,7 +2741,7 @@
       - h_c: 1.0
       - h_e: -1.0
     - lower_bound: -1000.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: ''
     - annotation: !!omap
       - bigg.reaction: ACt2r
@@ -2759,7 +2759,7 @@
       - amp_c: -1.0
       - atp_c: -1.0
     - lower_bound: -1000.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b0474
     - annotation: !!omap
       - bigg.reaction: ADK1
@@ -2823,7 +2823,7 @@
       - nadh_c: 1.0
       - succoa_c: 1.0
     - lower_bound: 0.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b0116 and b0726 and b0727
     - annotation: !!omap
       - bigg.reaction: AKGDH
@@ -2872,7 +2872,7 @@
       - h_c: 1.0
       - h_e: -1.0
     - lower_bound: -1000.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b2587
     - annotation: !!omap
       - bigg.reaction: AKGt2r
@@ -2898,7 +2898,7 @@
       - nad_c: -1.0
       - nadh_c: 1.0
     - lower_bound: -1000.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b0356 or b1478 or b1241
     - annotation: !!omap
       - bigg.reaction: ALCD2x
@@ -2944,7 +2944,7 @@
       - h_c: 1.0
       - pi_c: 1.0
     - lower_bound: 8.39
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: ''
     - annotation: !!omap
       - bigg.reaction: ATPM
@@ -3043,7 +3043,7 @@
       - h_e: -4.0
       - pi_c: -1.0
     - lower_bound: -1000.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: ((b3736 and b3737 and b3738) and (b3731 and b3732 and b3733
         and b3734 and b3735)) or ((b3736 and b3737 and b3738) and (b3731 and b3732
         and b3733 and b3734 and b3735) and b3739)
@@ -3084,7 +3084,7 @@
       - pyr_c: -2.8328
       - r5p_c: -0.8977
     - lower_bound: 0.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: ''
     - objective_coefficient: 1.0
     - annotation: !!omap
@@ -3098,7 +3098,7 @@
       - co2_c: 1.0
       - co2_e: -1.0
     - lower_bound: -1000.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: s0001
     - annotation: !!omap
       - bigg.reaction: CO2t
@@ -3180,7 +3180,7 @@
       - h_c: 1.0
       - oaa_c: -1.0
     - lower_bound: 0.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b0720
     - annotation: !!omap
       - bigg.reaction: CS
@@ -3231,7 +3231,7 @@
       - q8_c: 1.0
       - q8h2_c: -1.0
     - lower_bound: 0.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: (b0978 and b0979) or (b0733 and b0734)
     - annotation: !!omap
       - bigg.reaction: CYTBD
@@ -3250,7 +3250,7 @@
       - lac__D_c: 1.0
       - lac__D_e: -1.0
     - lower_bound: -1000.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b2975 or b3603
     - annotation: !!omap
       - bigg.reaction: D_LACt2
@@ -3269,7 +3269,7 @@
       - h2o_c: 1.0
       - pep_c: 1.0
     - lower_bound: -1000.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b2779
     - annotation: !!omap
       - bigg.reaction: ENO
@@ -3333,7 +3333,7 @@
       - h_c: 1.0
       - h_e: -1.0
     - lower_bound: -1000.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: ''
     - annotation: !!omap
       - bigg.reaction: ETOHt2r
@@ -3348,7 +3348,7 @@
     - metabolites: !!omap
       - ac_e: -1.0
     - lower_bound: 0.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: ''
     - annotation: !!omap
       - bigg.reaction: EX_ac_e
@@ -3374,7 +3374,7 @@
     - metabolites: !!omap
       - acald_e: -1.0
     - lower_bound: 0.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: ''
     - annotation: !!omap
       - bigg.reaction: EX_acald_e
@@ -3392,7 +3392,7 @@
     - metabolites: !!omap
       - akg_e: -1.0
     - lower_bound: 0.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: ''
     - annotation: !!omap
       - bigg.reaction: EX_akg_e
@@ -3409,7 +3409,7 @@
     - metabolites: !!omap
       - co2_e: -1.0
     - lower_bound: -1000.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: ''
     - annotation: !!omap
       - bigg.reaction: EX_co2_e
@@ -3486,7 +3486,7 @@
     - metabolites: !!omap
       - etoh_e: -1.0
     - lower_bound: 0.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: ''
     - annotation: !!omap
       - bigg.reaction: EX_etoh_e
@@ -3508,7 +3508,7 @@
     - metabolites: !!omap
       - for_e: -1.0
     - lower_bound: 0.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: ''
     - annotation: !!omap
       - bigg.reaction: EX_for_e
@@ -3533,7 +3533,7 @@
     - metabolites: !!omap
       - fru_e: -1.0
     - lower_bound: 0.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: ''
     - annotation: !!omap
       - bigg.reaction: EX_fru_e
@@ -3565,7 +3565,7 @@
     - metabolites: !!omap
       - fum_e: -1.0
     - lower_bound: 0.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: ''
     - annotation: !!omap
       - bigg.reaction: EX_fum_e
@@ -3581,7 +3581,7 @@
     - metabolites: !!omap
       - glc__D_e: -1.0
     - lower_bound: -10.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: ''
     - annotation: !!omap
       - bigg.reaction: EX_glc__D_e
@@ -3601,7 +3601,7 @@
     - metabolites: !!omap
       - gln__L_e: -1.0
     - lower_bound: 0.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: ''
     - annotation: !!omap
       - bigg.reaction: EX_gln__L_e
@@ -3629,7 +3629,7 @@
     - metabolites: !!omap
       - glu__L_e: -1.0
     - lower_bound: 0.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: ''
     - annotation: !!omap
       - bigg.reaction: EX_glu__L_e
@@ -3665,7 +3665,7 @@
     - metabolites: !!omap
       - h2o_e: -1.0
     - lower_bound: -1000.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: ''
     - annotation: !!omap
       - bigg.reaction: EX_h2o_e
@@ -3801,7 +3801,7 @@
     - metabolites: !!omap
       - h_e: -1.0
     - lower_bound: -1000.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: ''
     - annotation: !!omap
       - bigg.reaction: EX_h_e
@@ -3865,7 +3865,7 @@
     - metabolites: !!omap
       - lac__D_e: -1.0
     - lower_bound: 0.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: ''
     - annotation: !!omap
       - bigg.reaction: EX_lac__D_e
@@ -3879,7 +3879,7 @@
     - metabolites: !!omap
       - mal__L_e: -1.0
     - lower_bound: 0.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: ''
     - annotation: !!omap
       - bigg.reaction: EX_mal__L_e
@@ -3898,7 +3898,7 @@
     - metabolites: !!omap
       - nh4_e: -1.0
     - lower_bound: -1000.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: ''
     - annotation: !!omap
       - bigg.reaction: EX_nh4_e
@@ -3941,7 +3941,7 @@
     - metabolites: !!omap
       - o2_e: -1.0
     - lower_bound: -1000.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: ''
     - annotation: !!omap
       - bigg.reaction: EX_o2_e
@@ -3960,7 +3960,7 @@
     - metabolites: !!omap
       - pi_e: -1.0
     - lower_bound: -1000.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: ''
     - annotation: !!omap
       - bigg.reaction: EX_pi_e
@@ -3984,7 +3984,7 @@
     - metabolites: !!omap
       - pyr_e: -1.0
     - lower_bound: 0.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: ''
     - annotation: !!omap
       - bigg.reaction: EX_pyr_e
@@ -4003,7 +4003,7 @@
     - metabolites: !!omap
       - succ_e: -1.0
     - lower_bound: 0.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: ''
     - annotation: !!omap
       - bigg.reaction: EX_succ_e
@@ -4021,7 +4021,7 @@
       - fdp_c: -1.0
       - g3p_c: 1.0
     - lower_bound: -1000.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b2097 or b1773 or b2925
     - annotation: !!omap
       - bigg.reaction: FBA
@@ -4045,7 +4045,7 @@
       - h2o_c: -1.0
       - pi_c: 1.0
     - lower_bound: 0.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b3925 or b4232
     - annotation: !!omap
       - bigg.reaction: FBP
@@ -4093,7 +4093,7 @@
       - h_c: 1.0
       - h_e: -1.0
     - lower_bound: 0.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b0904 or b2492
     - annotation: !!omap
       - bigg.reaction: FORt2
@@ -4111,7 +4111,7 @@
       - q8h2_c: -1.0
       - succ_c: 1.0
     - lower_bound: 0.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b4151 and b4152 and b4153 and b4154
     - annotation: !!omap
       - bigg.reaction: FRD7
@@ -4132,7 +4132,7 @@
       - pep_c: -1.0
       - pyr_c: 1.0
     - lower_bound: 0.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b1817 and b1818 and b1819 and b2415 and b2416
     - annotation: !!omap
       - bigg.reaction: FRUpts2
@@ -4146,7 +4146,7 @@
       - h2o_c: -1.0
       - mal__L_c: 1.0
     - lower_bound: -1000.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b1612 or b4122 or b1611
     - annotation: !!omap
       - bigg.reaction: FUM
@@ -4208,7 +4208,7 @@
       - h_c: 2.0
       - h_e: -2.0
     - lower_bound: 0.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b3528
     - annotation: !!omap
       - bigg.reaction: FUMt2_2
@@ -4233,7 +4233,7 @@
       - nadp_c: -1.0
       - nadph_c: 1.0
     - lower_bound: -1000.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b1852
     - annotation: !!omap
       - bigg.reaction: G6PDH2r
@@ -4264,7 +4264,7 @@
       - nadh_c: 1.0
       - pi_c: -1.0
     - lower_bound: -1000.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b1779
     - annotation: !!omap
       - bigg.reaction: GAPD
@@ -4330,7 +4330,7 @@
       - pep_c: -1.0
       - pyr_c: 1.0
     - lower_bound: 0.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: (b2417 and b1101 and b2415 and b2416) or (b1817 and b1818
         and b1819 and b2415 and b2416) or (b2417 and b1621 and b2415 and b2416)
     - annotation: !!omap
@@ -4352,7 +4352,7 @@
       - nh4_c: -1.0
       - pi_c: 1.0
     - lower_bound: 0.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b3870 or b1297
     - annotation: !!omap
       - bigg.reaction: GLNS
@@ -4397,7 +4397,7 @@
       - h_c: 1.0
       - pi_c: 1.0
     - lower_bound: 0.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b0811 and b0810 and b0809
     - annotation: !!omap
       - bigg.reaction: GLNabc
@@ -4428,7 +4428,7 @@
       - nadph_c: 1.0
       - nh4_c: 1.0
     - lower_bound: -1000.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b1761
     - annotation: !!omap
       - bigg.reaction: GLUDy
@@ -4456,7 +4456,7 @@
       - h2o_c: -1.0
       - nh4_c: 1.0
     - lower_bound: 0.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b1812 or b0485 or b1524
     - annotation: !!omap
       - bigg.reaction: GLUN
@@ -4506,7 +4506,7 @@
       - nadp_c: 1.0
       - nadph_c: -1.0
     - lower_bound: 0.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b3212 and b3213
     - annotation: !!omap
       - bigg.reaction: GLUSy
@@ -4531,7 +4531,7 @@
       - h_c: 1.0
       - h_e: -1.0
     - lower_bound: -1000.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b4077
     - annotation: !!omap
       - bigg.reaction: GLUt2r
@@ -4568,7 +4568,7 @@
       - nadph_c: 1.0
       - ru5p__D_c: 1.0
     - lower_bound: 0.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b2029
     - annotation: !!omap
       - bigg.reaction: GND
@@ -4611,7 +4611,7 @@
       - h2o_c: 1.0
       - h2o_e: -1.0
     - lower_bound: -1000.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b0875 or s0001
     - annotation: !!omap
       - bigg.reaction: H2Ot
@@ -4751,7 +4751,7 @@
       - nadp_c: -1.0
       - nadph_c: 1.0
     - lower_bound: -1000.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b1136
     - annotation: !!omap
       - bigg.reaction: ICDHyr
@@ -4774,7 +4774,7 @@
       - icit_c: -1.0
       - succ_c: 1.0
     - lower_bound: 0.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b4015
     - annotation: !!omap
       - bigg.reaction: ICL
@@ -4799,7 +4799,7 @@
       - nadh_c: 1.0
       - pyr_c: 1.0
     - lower_bound: -1000.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b2133 or b1380
     - annotation: !!omap
       - bigg.reaction: LDH_D
@@ -4826,7 +4826,7 @@
       - h_c: 1.0
       - mal__L_c: 1.0
     - lower_bound: 0.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b4014 or b2976
     - annotation: !!omap
       - bigg.reaction: MALS
@@ -4850,7 +4850,7 @@
       - mal__L_c: 1.0
       - mal__L_e: -1.0
     - lower_bound: 0.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b3528
     - annotation: !!omap
       - bigg.reaction: MALt2_2
@@ -4875,7 +4875,7 @@
       - nadh_c: 1.0
       - oaa_c: 1.0
     - lower_bound: -1000.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b3236
     - annotation: !!omap
       - bigg.reaction: MDH
@@ -4952,7 +4952,7 @@
       - nadh_c: 1.0
       - pyr_c: 1.0
     - lower_bound: 0.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b1479
     - annotation: !!omap
       - bigg.reaction: ME1
@@ -4980,7 +4980,7 @@
       - nadph_c: 1.0
       - pyr_c: 1.0
     - lower_bound: 0.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b2463
     - annotation: !!omap
       - bigg.reaction: ME2
@@ -5007,7 +5007,7 @@
       - q8_c: -1.0
       - q8h2_c: 1.0
     - lower_bound: 0.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b2276 and b2277 and b2278 and b2279 and b2280 and b2281
         and b2282 and b2283 and b2284 and b2285 and b2286 and b2287 and b2288
     - annotation: !!omap
@@ -5025,7 +5025,7 @@
       - nadp_c: 1.0
       - nadph_c: -1.0
     - lower_bound: 0.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b3962 or (b1602 and b1603)
     - annotation: !!omap
       - bigg.reaction: NADTRHD
@@ -5050,7 +5050,7 @@
       - nh4_c: 1.0
       - nh4_e: -1.0
     - lower_bound: -1000.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: s0001 or b0451
     - annotation: !!omap
       - bigg.reaction: NH4t
@@ -5094,7 +5094,7 @@
       - o2_c: 1.0
       - o2_e: -1.0
     - lower_bound: -1000.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: s0001
     - annotation: !!omap
       - bigg.reaction: O2t
@@ -5118,7 +5118,7 @@
       - nadh_c: 1.0
       - pyr_c: -1.0
     - lower_bound: 0.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b0114 and b0115 and b0116
     - annotation: !!omap
       - bigg.reaction: PDH
@@ -5168,7 +5168,7 @@
       - fdp_c: 1.0
       - h_c: 1.0
     - lower_bound: 0.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b3916 or b1723
     - annotation: !!omap
       - bigg.reaction: PFK
@@ -5189,7 +5189,7 @@
       - for_c: 1.0
       - pyr_c: -1.0
     - lower_bound: 0.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: ((b0902 and b0903) and b2579) or (b0902 and b0903) or (b0902
         and b3114) or (b3951 and b3952)
     - annotation: !!omap
@@ -5213,7 +5213,7 @@
       - f6p_c: 1.0
       - g6p_c: -1.0
     - lower_bound: -1000.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b4025
     - annotation: !!omap
       - bigg.reaction: PGI
@@ -5230,7 +5230,7 @@
       - adp_c: 1.0
       - atp_c: -1.0
     - lower_bound: -1000.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b2926
     - annotation: !!omap
       - bigg.reaction: PGK
@@ -5294,7 +5294,7 @@
       - h2o_c: -1.0
       - h_c: 1.0
     - lower_bound: 0.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b0767
     - annotation: !!omap
       - bigg.reaction: PGL
@@ -5334,7 +5334,7 @@
       - 2pg_c: -1.0
       - 3pg_c: 1.0
     - lower_bound: -1000.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b3612 or b4395 or b0755
     - annotation: !!omap
       - bigg.reaction: PGM
@@ -5401,7 +5401,7 @@
       - pi_c: 1.0
       - pi_e: -1.0
     - lower_bound: -1000.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b2987 or b3493
     - annotation: !!omap
       - bigg.reaction: PIt2r
@@ -5431,7 +5431,7 @@
       - pep_c: -1.0
       - pi_c: 1.0
     - lower_bound: 0.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b3956
     - annotation: !!omap
       - bigg.reaction: PPC
@@ -5456,7 +5456,7 @@
       - oaa_c: -1.0
       - pep_c: 1.0
     - lower_bound: 0.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b3403
     - annotation: !!omap
       - bigg.reaction: PPCK
@@ -5484,7 +5484,7 @@
       - pi_c: 1.0
       - pyr_c: -1.0
     - lower_bound: 0.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b1702
     - annotation: !!omap
       - bigg.reaction: PPS
@@ -5509,7 +5509,7 @@
       - coa_c: 1.0
       - pi_c: -1.0
     - lower_bound: -1000.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b2297 or b2458
     - annotation: !!omap
       - bigg.reaction: PTAr
@@ -5535,7 +5535,7 @@
       - pep_c: -1.0
       - pyr_c: 1.0
     - lower_bound: 0.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b1854 or b1676
     - annotation: !!omap
       - bigg.reaction: PYK
@@ -5580,7 +5580,7 @@
       - pyr_c: 1.0
       - pyr_e: -1.0
     - lower_bound: -1000.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: ''
     - annotation: !!omap
       - bigg.reaction: PYRt2
@@ -5602,7 +5602,7 @@
       - ru5p__D_c: -1.0
       - xu5p__D_c: 1.0
     - lower_bound: -1000.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b3386 or b4301
     - annotation: !!omap
       - bigg.reaction: RPE
@@ -5662,7 +5662,7 @@
       - r5p_c: -1.0
       - ru5p__D_c: 1.0
     - lower_bound: -1000.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b2914 or b4090
     - annotation: !!omap
       - bigg.reaction: RPI
@@ -5678,7 +5678,7 @@
       - succ_c: 1.0
       - succ_e: -1.0
     - lower_bound: 0.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b3528
     - annotation: !!omap
       - bigg.reaction: SUCCt2_2
@@ -5702,7 +5702,7 @@
       - succ_c: -1.0
       - succ_e: 1.0
     - lower_bound: 0.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: ''
     - annotation: !!omap
       - bigg.reaction: SUCCt3
@@ -5718,7 +5718,7 @@
       - q8h2_c: 1.0
       - succ_c: -1.0
     - lower_bound: 0.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b0721 and b0722 and b0723 and b0724
     - annotation: !!omap
       - bigg.reaction: SUCDi
@@ -5741,7 +5741,7 @@
       - succ_c: -1.0
       - succoa_c: 1.0
     - lower_bound: -1000.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b0728 and b0729
     - annotation: !!omap
       - bigg.reaction: SUCOAS
@@ -5785,7 +5785,7 @@
       - g3p_c: -1.0
       - s7p_c: -1.0
     - lower_bound: -1000.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b2464 or b0008
     - annotation: !!omap
       - bigg.reaction: TALA
@@ -5810,7 +5810,7 @@
       - nadp_c: -1.0
       - nadph_c: 1.0
     - lower_bound: 0.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b1602 and b1603
     - annotation: !!omap
       - bigg.reaction: THD2
@@ -5829,7 +5829,7 @@
       - s7p_c: 1.0
       - xu5p__D_c: -1.0
     - lower_bound: -1000.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b2935 or b2465
     - annotation: !!omap
       - bigg.reaction: TKT1
@@ -5845,7 +5845,7 @@
       - g3p_c: 1.0
       - xu5p__D_c: -1.0
     - lower_bound: -1000.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b2935 or b2465
     - annotation: !!omap
       - bigg.reaction: TKT2
@@ -5866,7 +5866,7 @@
       - dhap_c: -1.0
       - g3p_c: 1.0
     - lower_bound: -1000.0
-    - upper_bound: 1000.0
+    - upper_bound: 42.0
     - gene_reaction_rule: b3919
     - annotation: !!omap
       - bigg.reaction: TPI
